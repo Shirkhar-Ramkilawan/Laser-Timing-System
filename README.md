@@ -1,11 +1,11 @@
 # ⏱️ Laser Timing System
 
-<img width="1294" height="1157" alt="image" src="https://github.com/user-attachments/assets/bf09937a-0b83-46ae-a230-52b98d09d7fa" />
+![DSCll00034-min (1)](https://github.com/user-attachments/assets/e5645aae-995b-4a71-b37e-b9b094e88524)
+
 
 ## 📖 Project Overview
 This project is a low-cost, DIY **laser-based timing gate** built using a Raspberry Pi Pico. It serves as a proof-of-concept for an easily installable timing system that detects when a 5 mW laser beam is interrupted.
 
----
 
 ## ⚙️ How It Works
 
